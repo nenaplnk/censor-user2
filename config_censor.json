@@ -1,0 +1,5 @@
+{
+  "threshold": 0.869,
+  "lowercase": true,
+  "max_tokens": 128
+}
